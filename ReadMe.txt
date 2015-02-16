@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 qfx has changes it at 2/17/2015.
+
+Creating a new branch is quick.
