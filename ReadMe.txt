@@ -7,3 +7,4 @@ qfx has changes it at 2/17/2015.
 
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
+我来加一句(使用Github之后).
